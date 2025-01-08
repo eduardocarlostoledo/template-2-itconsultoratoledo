@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React from 'react';
 
 import config from '../config/index.json';
@@ -29,8 +30,8 @@ const About = () => {
         </div>
         <div className="flex items-center gap-x-8 mt-6 h-8">
           <a
-            aria-label="github"
-            href={socialMedia.github}
+            aria-label="facebook"
+            href={socialMedia.facebook}
             target="_blank"
             rel="noreferrer"
           >
@@ -45,8 +46,8 @@ const About = () => {
             </svg>
           </a>
           <a
-            aria-label="linkedin"
-            href={socialMedia.linkedin}
+            aria-label="instagram"
+            href={socialMedia.instagram}
             target="_blank"
             rel="noreferrer"
           >
@@ -61,8 +62,8 @@ const About = () => {
             </svg>
           </a>
           <a
-            aria-label="twitter"
-            href={socialMedia.twitter}
+            aria-label="whatsapp"
+            href={socialMedia.whatsapp}
             target="_blank"
             rel="noreferrer"
           >
@@ -80,8 +81,8 @@ const About = () => {
         <div className="flex items-center mt-6">
           <p className="mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
             &copy; {new Date().getFullYear()} designed by{' '}
-            <a href="https://github.com/issaafalkattan" rel="nofollow">
-              Issaaf Kattan
+            <a href="https://toledoconsultora.com/" rel="nofollow">
+              Toledo Consultora IT
             </a>
           </p>
         </div>

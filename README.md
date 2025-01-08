@@ -31,21 +31,6 @@ Built-in feature from Next.js:
 - 💨 Live reload
 - ✅ Cache busting
 
-### Make it your own
-
-#### 1. Clone repo
-
-```
-git clone https://github.com/issaafalkattan/react-landing-page-template-2021.git
-cd react-landing-page-template-2021
-yarn
-```
-
-Then, you can run locally in development mode with live reload:
-
-```
-yarn dev
-```
 
 Open <http://localhost:3000> with your favorite browser to see your project.
 
@@ -75,21 +60,3 @@ You can create an optimised production build with:
 ```
 yarn build-prod
 ```
-
-### Contributions
-
-Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
-
-### License
-
-Licensed under the MIT License, Copyright © 2021
-  
-
-## Liked this template? <a href="https://www.buymeacoffee.com/issaaf">Buy me a coffee ☕️</a>
-
-
-
-
----
-
-### Looking for v1? <a href="https://github.com/issaafalkattan/React-Landing-Page-Template">V1</a>

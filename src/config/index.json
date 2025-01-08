@@ -27,96 +27,96 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Ésta podría ser",
+    "subtitle": " tu landing page.",
+    "description": "Esta página podría ser la de tu empresa si decides contratar nuestro servicio de diseño de páginas web y posicionamiento. Te ayudaremos a hacer crecer tu negocio en internet de manera efectiva y profesional.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Empecemos",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Contrata Ahora!",
+      "href": "mailto:eduardocarlostoledo@gmail.com?subject=Quiero contratar el template-2-itconsultoratoledo!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Landing Page Corporativa",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Una página a tu medida",
+        "description": "Contrata con nosotros el diseño de tu página web y posicionamiento en buscadores. Te ayudaremos a hacer crecer tu negocio en internet de manera efectiva y profesional.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Házla Tuya!",
+        "description": "Sólamente con el pago del 50% ya podés elegir el dominio que desees para tu página web. El otro 50% lo pagás cuando esté lista y a tu gusto.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Escribimos código con las mejores tecnologías",
+    "subtitle": "Usamos la tecnología más reciente!",
+    "description": "Es un hecho que estar a la vanguardia de los últimos avances en tecnología es fundamental para el éxito de tu negocio en internet. Por eso, en Toledo Consultora usamos las mejores tecnologías para el desarrollo de tu página web.",
     "items": [
       {
         "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "description": "React es una biblioteca de JavaScript de código abierto y gratuita para construir interfaces de usuario o componentes de UI.",
         "icon": "/assets/images/react.png"
       },
       {
         "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "description": "Tailwind CSS es un marco de CSS altamente personalizable y de bajo nivel para crear rápidamente diseños hermosos sin estilos predefinidos molestos.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
         "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "description": "Next.js es un framework para aplicaciones React renderizadas en el servidor utilizando Next.js.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
         "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "description": "TypeScript es un lenguaje de programación desarrollado y mantenido por Microsoft.",
         "icon": "/assets/images/ts.png"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Establecé tarifas para tus clientes",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "Básico",
+        "price": "$99",
+        "priceDetails": "Basic",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "Dominio y Hosting x 1 año",
+          "Modelo Básico",
+          "SSL",
+          "Botones a tus Redes Sociales"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
+        "name": "Intermedio",
+        "price": "$159",
+        "priceDetails": "Pro",
 
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "Dominio y Hosting x 1 año",
+          "Modelo Intermedio",
+          "SSL & CEO",
+          "Botones a tus Redes Sociales, Google Maps y Formulario de Contacto"
         ]
       },
       {
         "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "price": "$259",
+        "priceDetails": "Gold",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "Dominio y Hosting x 1 año",
+          "Modelo Golden",
+          "SSL & CEO",
+          "Botones a tus Redes Sociales, Google Maps y Formulario de Contacto"
         ]
       }
     ]
@@ -124,30 +124,31 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
+        "name": "About Us",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "We are a team of passionate designers and developers dedicated to creating innovative and effective web solutions. Our goal is to help businesses establish a strong online presence and achieve their digital marketing objectives."
       },
       {
-        "name": "Something",
+        "name": "Our Services",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "We offer a wide range of services, including custom web design, responsive development, SEO optimization, and online marketing strategies tailored to your business needs. Let us help you stand out in the digital world."
       },
       {
-        "name": "Something",
+        "name": "Portfolio",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "Take a look at some of our successful projects. From sleek corporate websites to engaging e-commerce platforms, our portfolio showcases the versatility and creativity we bring to each project."
       },
       {
-        "name": "Something",
+        "name": "Contact",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "Ready to take your business to the next level? Get in touch with us today! We're here to answer your questions and provide a free consultation to discuss your project needs."
       }
     ],
+
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "facebook": "https://www.facebook.com/profile.php?id=61567966653297",
+      "instagram": "https://www.instagram.com/toledoconsultora",
+      "whatsapp": "https://wa.me/543764221063"
     }
   }
 }
